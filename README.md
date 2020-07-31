@@ -3,4 +3,4 @@ Notes from Introduction to TensorFlow for Artificial Intelligence, Machine Learn
 
 Updating as I'm taking the online course, hope it helps with the assignments :)
 
-Files are named as intro2tensorflow_w'x', x being the week in the course
+Files are named as intro2tensorflow_w'x', x being the week it's related
